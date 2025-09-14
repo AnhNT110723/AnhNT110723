@@ -60,8 +60,8 @@ Tôi là một **Sinh viên Kỹ thuật Phần mềm** đam mê xây dựng cá
 
 ## 📫 Liên hệ với tôi
 
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 **LinkedIn**: [Liên kết LinkedIn của bạn](https://www.linkedin.com/in/[your-linkedin-username])
+- 📧 **Email**: [anhnt210721003@gmail.com](mailto:anhnt210721003@gmail.com)
+- 🔗 **LinkedIn**: [Liên kết LinkedIn của bạn](https://www.linkedin.com/in/me/?trk=eml-email_profile_qp_welcome_01-quality~profile~status~widget-0-add_position_button)
 - 🌐 **Portfolio**: [Liên kết portfolio cá nhân, nếu có](#)
 - 💬 **X**: [Liên kết tài khoản X của bạn](https://x.com/[your-x-username])
 
