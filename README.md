@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" width="150" height="150" alt="Profile Picture">
-  <h1>Chào bạn, tôi là [TÊN CỦA BẠN]! 👋</h1>
+  <h1>Chào bạn, tôi là Nguyễn Tuấn Anh! 👋</h1>
 </div>
 
 <br>
