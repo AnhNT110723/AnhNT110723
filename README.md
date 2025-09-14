@@ -1,61 +1,76 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" width="150" height="150" alt="Profile Picture">
-  <h1>Chào bạn, tôi là Nguyễn Tuấn Anh! 👋</h1>
-</div>
+# 👋 Xin chào! Tôi là Nguyễn Tuấn Anh
 
-<br>
+![Profile Views](https://komarev.com/ghpvc/?username=[your-github-username]&color=blue)
 
-### Giới thiệu
-Tôi là sinh viên chuyên ngành **Kỹ thuật Phần mềm** với niềm đam mê xây dựng các ứng dụng web mạnh mẽ và có khả năng mở rộng. Tôi có kinh nghiệm làm việc với các công nghệ front-end và back-end, đồng thời luôn tìm kiếm cơ hội để học hỏi và đóng góp cho cộng đồng.
-
-Tôi tin rằng code sạch, có cấu trúc tốt và tư duy giải quyết vấn đề là chìa khóa để tạo ra những sản phẩm phần mềm chất lượng cao.
-
-<br>
+Tôi là một **Sinh viên Kỹ thuật Phần mềm** đam mê xây dựng các ứng dụng hiệu quả và sáng tạo. Với nền tảng vững chắc về lập trình và kinh nghiệm sử dụng các công nghệ hiện đại, tôi luôn tìm kiếm cơ hội để học hỏi và tạo ra giá trị thông qua mã nguồn.
 
 ---
 
-### Kỹ năng & Công nghệ
-Dưới đây là các ngôn ngữ lập trình, framework và công nghệ mà tôi đã làm việc và có kiến thức chuyên sâu.
+## 🚀 Về tôi
 
-| Hạng mục | Công nghệ & Kỹ năng |
-| :--- | :--- |
-| **Ngôn ngữ lập trình** | `C#` `Java` `C++` `C` `JavaScript` |
-| **Frameworks & Libraries** | `.NET` `Spring Boot` `React` `Node.js` `Bootstrap` |
-| **Giao diện người dùng** | `HTML` `CSS` |
-| **Quản lý phiên bản** | `Git` `GitHub` `GitLab` |
-| **Nền tảng & Công cụ** | `Docker` `AWS` `Azure` |
-
-<br>
+- 🎓 **Học vấn**: Sinh viên chuyên ngành Kỹ thuật Phần mềm tại đại học FPT Hà Nội.
+- 💻 **Kỹ năng chính**: Phát triển phần mềm, thiết kế hệ thống, và triển khai ứng dụng trên nền tảng đám mây.
+- 🌟 **Mục tiêu**: Góp phần xây dựng các giải pháp công nghệ sáng tạo, tối ưu và thân thiện với người dùng.
+- 📍 **Vị trí**: Hà Nội
 
 ---
 
-### Các dự án tiêu biểu
-Dưới đây là một vài dự án mà tôi tự hào và muốn giới thiệu. Hãy khám phá để hiểu rõ hơn về kỹ năng của tôi!
+## 🛠️ Kỹ năng công nghệ
 
-> _(Bạn có thể thay thế các dự án dưới đây bằng dự án của riêng bạn)_
-
-#### 1. [Tên dự án 1]
-* **Mô tả:** Mô tả ngắn gọn về dự án, nó giải quyết vấn đề gì và công nghệ chính được sử dụng.
-* **Công nghệ:** C# .NET, SQL Server, React
-* **Tính năng nổi bật:** Ví dụ: Hệ thống quản lý người dùng, API RESTful...
-
-#### 2. [Tên dự án 2]
-* **Mô tả:** Mô tả ngắn gọn về dự án này.
-* **Công nghệ:** Java Spring Boot, MySQL
-* **Tính năng nổi bật:** Ví dụ: Tích hợp thanh toán, hệ thống bảo mật JWT...
-
-#### 3. [Tên dự án 3]
-* **Mô tả:** Mô tả ngắn gọn về dự án này.
-* **Công nghệ:** Node.js, Express, MongoDB
-* **Tính năng nổi bật:** Ví dụ: Real-time chat, WebSocket...
-
-<br>
+| **Ngôn ngữ lập trình** | **Framework & Công cụ** | **DevOps & Cloud** |
+|------------------------|-------------------------|--------------------|
+| ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) |
+| ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | | |
 
 ---
 
-### Liên hệ
-Hãy kết nối với tôi qua các nền tảng sau nếu bạn quan tâm đến công việc của tôi hoặc muốn trao đổi về các dự án tiềm năng.
+## 🌟 Dự án nổi bật
 
-- **LinkedIn:** [Link tới LinkedIn của bạn]
-- **Email:** [Địa chỉ email của bạn]
-- **Website/Portfolio (Nếu có):** [Link tới trang cá nhân của bạn]
+### 1. [Tên dự án 1]
+![GitHub stars](https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social)
+- **Mô tả**: Ứng dụng web quản lý công việc sử dụng React và Node.js.
+- **Công nghệ**: React, Node.js, MongoDB, Docker
+- **Liên kết**: [GitHub Repo](https://github.com/[your-github-username]/[repo-name]) | [Demo](#)
+
+### 2. [Tên dự án 2]
+![GitHub stars](https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social)
+- **Mô tả**: Hệ thống quản lý thư viện xây dựng bằng Java Spring Boot và MySQL.
+- **Công nghệ**: Java, Spring Boot, MySQL, AWS
+- **Liên kết**: [GitHub Repo](https://github.com/[your-github-username]/[repo-name]) | [Demo](#)
+
+### 3. [Tên dự án 3]
+![GitHub stars](https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social)
+- **Mô tả**: Game đơn giản sử dụng C++ và SDL.
+- **Công nghệ**: C++, SDL
+- **Liên kết**: [GitHub Repo](https://github.com/[your-github-username]/[repo-name]) | [Demo](#)
+
+---
+
+## 📊 Thống kê GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radical)
+
+---
+
+## 📫 Liên hệ với tôi
+
+- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
+- 🔗 **LinkedIn**: [Liên kết LinkedIn của bạn](https://www.linkedin.com/in/[your-linkedin-username])
+- 🌐 **Portfolio**: [Liên kết portfolio cá nhân, nếu có](#)
+- 💬 **X**: [Liên kết tài khoản X của bạn](https://x.com/[your-x-username])
+
+---
+
+## 💡 Về tôi thêm một chút
+
+- 😄 **Sở thích**: Đọc sách về công nghệ, chơi game, du lịch
+- 🌍 **Ngôn ngữ**: Tiếng Việt, Tiếng Anh
+- ⚡ **Fun fact**: Tôi đã từng viết một bot tự động trả lời email bằng Python!
+
+Cảm ơn bạn đã ghé thăm trang GitHub của tôi! Hãy cùng kết nối và xây dựng những điều tuyệt vời! 🚀
