@@ -31,10 +31,10 @@ Tôi là một **Sinh viên Kỹ thuật Phần mềm** đam mê xây dựng cá
 
 ## 🌟 Dự án nổi bật
 
-### 1. [Tên dự án 1]
+### 1. FAI ENGLISH TUTOR
 ![GitHub stars](https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social)
-- **Mô tả**: Ứng dụng web quản lý công việc sử dụng React và Node.js.
-- **Công nghệ**: React, Node.js, MongoDB, Docker
+- **Mô tả**: Ứng dụng web dạy tiếng anh bằng AI gia sư sử dụng ngôn ngữ C#.
+- **Công nghệ**: C#, .NET , SQL server, Azure.
 - **Liên kết**: [GitHub Repo](https://github.com/[your-github-username]/[repo-name]) | [Demo](#)
 
 ### 2. [Tên dự án 2]
