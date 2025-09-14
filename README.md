@@ -62,7 +62,7 @@ Tôi là một **Sinh viên Kỹ thuật Phần mềm** đam mê xây dựng cá
 
 - 📧 **Email**: [anhnt210721003@gmail.com](mailto:anhnt210721003@gmail.com)
 - 🔗 **LinkedIn**: [LinkedIn ](https://www.linkedin.com/in/me/?trk=eml-email_profile_qp_welcome_01-quality~profile~status~widget-0-add_position_button)
-- 🌐 **Portfolio**: [Liên kết portfolio cá nhân, nếu có](#)
+- 🌐 **Portfolio**: [Link portfolio](#)
 
 ---
 
