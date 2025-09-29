@@ -1,6 +1,6 @@
 # 👋 Xin chào! Tôi là Nguyễn Tuấn Anh
 
-![Profile Views](https://komarev.com/ghpvc/?username=[your-github-username]&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=AnhNT110723&color=blue)
 
 Tôi là một **Sinh viên Kỹ thuật Phần mềm** đam mê xây dựng các ứng dụng hiệu quả và sáng tạo. Với nền tảng vững chắc về lập trình và kinh nghiệm sử dụng các công nghệ hiện đại, tôi luôn tìm kiếm cơ hội để học hỏi và tạo ra giá trị thông qua mã nguồn.
 
