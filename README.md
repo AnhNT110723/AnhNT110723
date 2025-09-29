@@ -38,9 +38,9 @@ Tôi là một **Sinh viên Kỹ thuật Phần mềm** đam mê xây dựng cá
 - **Liên kết**: [GitHub Repo](https://github.com/AnhNT110723/AITutor_EXE101) | [Demo](#)
 
 ### 2. SYNAPSE
-![GitHub stars](https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social)
-- **Mô tả**: Hệ thống quản lý thư viện xây dựng bằng Java Spring Boot và MySQL.
-- **Công nghệ**: C#, .NET API, RazorPage(cshtml), SQL server, Docker, 
+![GitHub stars]([https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social](https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social))
+- **Mô tả**: Synapse API là một hệ thống backend mạnh mẽ được xây dựng với ASP.NET Core 8.0, cung cấp các tính năng học tập thông minh được hỗ trợ bởi AI. Dự án này tập trung vào việc cung cấp trải nghiệm học tập cá nhân hóa thông qua việc sử dụng trí tuệ nhân tạo và phân tích dữ liệu học tập.
+- **Công nghệ**: C#, .NET API(BE), ASP.NET core MVC and RazorPage(cshtml) (FE), SQL server, Docker, 
 - **Liên kết**: [GitLab Repo BE](https://gitlab.com/fptu_ong/prn232) | [GitLab Repo FE](https://gitlab.com/fptu_ong/prn232_fe_synapse).
 
 ### 3. CHATAPP REAL TIME
