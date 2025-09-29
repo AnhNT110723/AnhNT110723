@@ -40,7 +40,7 @@ Tôi là một **Sinh viên Kỹ thuật Phần mềm** đam mê xây dựng cá
 ### 2. SYNAPSE
 ![GitHub stars]([https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social](https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social))
 - **Mô tả**: Synapse là một hệ thống cung cấp các tính năng học tập thông minh được hỗ trợ bởi AI. Dự án này tập trung vào việc cung cấp trải nghiệm học tập cá nhân hóa thông qua việc sử dụng trí tuệ nhân tạo và phân tích dữ liệu học tập.
-- **Công nghệ**: C#, .NET API(BE), ASP.NET core MVC and RazorPage(cshtml) (FE), SQL server, Docker, 
+- **Công nghệ**: C#, .NET API (BE), ASP.NET core MVC & RazorPage(cshtml) (FE), SQL server, Docker, 
 - **Liên kết**: [GitLab Repo BE](https://gitlab.com/fptu_ong/prn232) | [GitLab Repo FE](https://gitlab.com/fptu_ong/prn232_fe_synapse).
 
 ### 3. CHATAPP REAL TIME
