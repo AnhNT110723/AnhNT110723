@@ -34,27 +34,27 @@ Tôi là một **Sinh viên Kỹ thuật Phần mềm** đam mê xây dựng cá
 ### 1. FAI ENGLISH TUTOR
 ![GitHub stars](https://img.shields.io/github/stars/AnhNT110723/AITutor_EXE101?style=social)
 - **Mô tả**: Ứng dụng web dạy tiếng anh bằng AI gia sư sử dụng ngôn ngữ C#.
-- **Công nghệ**: C#, .NET core MVC, RazorPage(cshtml) , SQL server, Azure.
+- **Công nghệ**: C#, .NET core MVC, RazorPage(cshtml) , SQL server, OpenAI, Azure.
 - **Liên kết**: [GitHub Repo](https://github.com/AnhNT110723/AITutor_EXE101) | [Demo](#)
 
 ### 2. SYNAPSE
 ![GitHub stars]([https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social](https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social))
 - **Mô tả**: Synapse là một hệ thống cung cấp các tính năng học tập thông minh được hỗ trợ bởi AI. Dự án này tập trung vào việc cung cấp trải nghiệm học tập cá nhân hóa thông qua việc sử dụng trí tuệ nhân tạo và phân tích dữ liệu học tập.
-- **Công nghệ**: C#, .NET API (BE), ASP.NET core MVC & RazorPage(cshtml) (FE), SQL server, Docker, 
+- **Công nghệ**: C#, .NET API (BE), ASP.NET core MVC & RazorPage(cshtml) (FE), SQL server, Gemeni, Docker, Qdrant, Redis.
 - **Liên kết**: [GitLab Repo BE](https://gitlab.com/fptu_ong/prn232) | [GitLab Repo FE](https://gitlab.com/fptu_ong/prn232_fe_synapse).
 
 ### 3. CHATAPP REAL TIME
-![GitHub stars](https://img.shields.io/github/stars/AnhNT110723/[repo-name]?style=social)
-- **Mô tả**: Game đơn giản sử dụng C++ và SDL.
+![GitHub stars](https://img.shields.io/github/stars/AnhNT110723/ChatAppRealTime?style=social)
+- **Mô tả**: Nền tảng nhắn tin tức thời hiện tại là một ứng dụng web hiện đại, được hỗ trợ bởi Socket.IO để nhắn tin thời gian thực.
 - **Công nghệ**: React, Node.js, Monggo DB, Socket.io
-- **Liên kết**: [GitHub Repo](https://github.com/[your-github-username]/[repo-name]) | [Demo](#)
+- **Liên kết**: [GitHub Repo](https://github.com/AnhNT110723/Chat_App_Backend) | [GitHub Repo FE](https://github.com/AnhNT110723/Chat_App_Frontend)
 
 ---
 
 ## 📊 Thống kê GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnhNT&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhNT&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnhNT110723&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhNT110723&layout=compact&theme=radical)
 
 ---
 
@@ -70,6 +70,6 @@ Tôi là một **Sinh viên Kỹ thuật Phần mềm** đam mê xây dựng cá
 
 - 😄 **Sở thích**: Đọc sách về công nghệ, chơi game, du lịch
 - 🌍 **Ngôn ngữ**: Tiếng Việt, Tiếng Anh
-- ⚡ **Fun fact**: Tôi đã từng viết một bot tự động trả lời email bằng Python!
+- ⚡ **Fun fact**: Tôi đã từng viết một tính năng tự động trả lời email bằng Java!
 
 Cảm ơn bạn đã ghé thăm trang GitHub của tôi! Hãy cùng kết nối và xây dựng những điều tuyệt vời! 🚀
