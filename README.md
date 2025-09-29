@@ -32,16 +32,16 @@ Tôi là một **Sinh viên Kỹ thuật Phần mềm** đam mê xây dựng cá
 ## 🌟 Dự án nổi bật
 
 ### 1. FAI ENGLISH TUTOR
-![GitHub stars](https://img.shields.io/github/stars/[AnhNT]/[FAI-ENLISH-TUTOR]?style=social)
+![GitHub stars](https://img.shields.io/github/stars/AnhNT110723/AITutor_EXE101?style=social)
 - **Mô tả**: Ứng dụng web dạy tiếng anh bằng AI gia sư sử dụng ngôn ngữ C#.
-- **Công nghệ**: C#, .NET , SQL server, Azure.
+- **Công nghệ**: C#, .NET core MVC, RazorPage(cshtml) , SQL server, Azure.
 - **Liên kết**: [GitHub Repo](https://github.com/AnhNT110723/AITutor_EXE101) | [Demo](#)
 
 ### 2. SYNAPSE
 ![GitHub stars](https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social)
 - **Mô tả**: Hệ thống quản lý thư viện xây dựng bằng Java Spring Boot và MySQL.
-- **Công nghệ**: Java, Spring Boot, MySQL, AWS
-- **Liên kết**: [GitHub Repo BE](https://gitlab.com/fptu_ong/prn232) | [GitHub Repo BE](https://gitlab.com/fptu_ong/prn232_fe_synapse).
+- **Công nghệ**: C#, .NET API, RazorPage(cshtml), SQL server, Docker, 
+- **Liên kết**: [GitLab Repo BE](https://gitlab.com/fptu_ong/prn232) | [GitLab Repo FE](https://gitlab.com/fptu_ong/prn232_fe_synapse).
 
 ### 3. CHATAPP REAL TIME
 ![GitHub stars](https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social)
