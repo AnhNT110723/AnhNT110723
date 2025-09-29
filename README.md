@@ -1,6 +1,6 @@
 # 👋 Xin chào! Tôi là Nguyễn Tuấn Anh
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnhNT110723&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=AnhNT&color=blue)
 
 Tôi là một **Sinh viên Kỹ thuật Phần mềm** đam mê xây dựng các ứng dụng hiệu quả và sáng tạo. Với nền tảng vững chắc về lập trình và kinh nghiệm sử dụng các công nghệ hiện đại, tôi luôn tìm kiếm cơ hội để học hỏi và tạo ra giá trị thông qua mã nguồn.
 
@@ -32,18 +32,18 @@ Tôi là một **Sinh viên Kỹ thuật Phần mềm** đam mê xây dựng cá
 ## 🌟 Dự án nổi bật
 
 ### 1. FAI ENGLISH TUTOR
-![GitHub stars](https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social)
+![GitHub stars](https://img.shields.io/github/stars/[AnhNT]/[FAI-ENLISH-TUTOR]?style=social)
 - **Mô tả**: Ứng dụng web dạy tiếng anh bằng AI gia sư sử dụng ngôn ngữ C#.
 - **Công nghệ**: C#, .NET , SQL server, Azure.
-- **Liên kết**: [GitHub Repo](https://github.com/[your-github-username]/[repo-name]) | [Demo](#)
+- **Liên kết**: [GitHub Repo](https://github.com/AnhNT110723/AITutor_EXE101) | [Demo](#)
 
-### 2. [Tên dự án 2]
+### 2. SYNAPSE
 ![GitHub stars](https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social)
 - **Mô tả**: Hệ thống quản lý thư viện xây dựng bằng Java Spring Boot và MySQL.
 - **Công nghệ**: Java, Spring Boot, MySQL, AWS
-- **Liên kết**: [GitHub Repo](https://github.com/[your-github-username]/[repo-name]) | [Demo](#)
+- **Liên kết**: [GitHub Repo BE](https://gitlab.com/fptu_ong/prn232) | [GitHub Repo BE](https://gitlab.com/fptu_ong/prn232_fe_synapse).
 
-### 3. [Tên dự án 3]
+### 3. CHATAPP REAL TIME
 ![GitHub stars](https://img.shields.io/github/stars/[your-github-username]/[repo-name]?style=social)
 - **Mô tả**: Game đơn giản sử dụng C++ và SDL.
 - **Công nghệ**: C++, SDL
@@ -53,8 +53,8 @@ Tôi là một **Sinh viên Kỹ thuật Phần mềm** đam mê xây dựng cá
 
 ## 📊 Thống kê GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnhNT&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhNT&layout=compact&theme=radical)
 
 ---
 
